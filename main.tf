@@ -1,4 +1,4 @@
-//we are using Amazon provider 
+//we are using AWS provider 
 provider "aws" {
   region = "us-east-1"
 }
