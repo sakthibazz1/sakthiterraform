@@ -2,3 +2,4 @@ sudo yum install httpd -y
 sudo yum install git -y
 service httpd start 
 chkconfig httpd on 
+yum
